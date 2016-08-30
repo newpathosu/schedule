@@ -11,7 +11,7 @@ Date | Person | Talk | Slides
 9/26/2016 | Tony Franco | The difference between software development & development for marketing |
 10/3/2016 |  |  |
 10/10/2016 |  |  |
-10/17/2016 |  |  |
+10/17/2016 | David Soller | ELK Stack for Data Visualization, Preformance Monitoring, etc. |
 10/24/2016 |  |  |
 10/31/2016 |  |  |
 11/7/2016 |  |  |
