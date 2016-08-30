@@ -4,7 +4,7 @@ All class meetings on Mondays 10:20-11:15am EST in Dreese Labs 263
 
 Date | Person | Talk | Slides
 -----|--------|------|-------
-8/29/2016 |  | 1st meeting |
+8/29/2016 | Members | 1st meeting - Introduction & Summer Discussion |
 9/5/2016 |  | *Labor Day no class* |
 9/12/2016 | Paul Tela | Translating business goals into infrastructure requirements |
 9/19/2016 |  |  |
