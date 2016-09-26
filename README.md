@@ -19,3 +19,8 @@ Date | Person | Talk | Slides
 11/21/2016 |  |  |
 11/28/2016 |  |  |
 12/5/2016 |  |  |
+
+# Columbus Event Schedule
+Date | Event
+-----|------
+11/11 - 11/12 | [Columbus Startup Weekend](https://www.eventbrite.com/e/startup-weekend-columbus-tickets-27475062652)
