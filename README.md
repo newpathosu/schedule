@@ -1,4 +1,4 @@
-# NEWPATH Schedule
+# NEWPATH Schedule - Fall '16
 
 All class meetings on Mondays 10:20-11:15am EST in Dreese Labs 263
 
@@ -24,3 +24,23 @@ Date | Person | Talk | Slides
 Date | Event
 -----|------
 11/11 - 11/12 | [Columbus Startup Weekend](https://www.eventbrite.com/e/startup-weekend-columbus-tickets-27475062652)
+
+# NEWPATH Schedule - Spring '17
+Date | Person | Talk | Slides
+-----|--------|------|-------
+1/9/2017 |  |  |
+1/16/2017 | --- | *Martin Luther King Day* |
+1/23/2017 |  |  | 
+1/30/2017 |  |  | 
+2/6/2017 |  |  | 
+2/13/2017 |  |  |
+2/20/2017 |  |  |
+2/27/2017 |  |  |
+3/6/2017 |  |  |
+3/13/2017 | --- | *Spring Break* |
+3/20/2017 |  |  |
+3/27/2017 |  |  |
+4/3/2017 |  |  |
+4/10/2017 |  |  |
+4/17/2017 |  |  |
+4/24/2017 |  |  |
