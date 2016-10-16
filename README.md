@@ -11,7 +11,7 @@ Date | Person | Talk | Slides
 9/26/2016 | Tony Franco | The difference between software development & development for marketing | [Notes](https://gist.github.com/3ygun/875ebe09d9afbc439f207862f04348cb)
 10/3/2016 | Alex Purtell | The [Lumos accelerator](http://lumosinnovation.com/) |
 10/10/2016 | Max Buck | Rapid Prototyping in Python | [Repo](https://github.com/buckmaxwell/pic-picker)
-10/17/2016 |  |  |
+10/17/2016 | --- | *Canceled* |
 10/24/2016 | Alexander Leader | [Aviso Retention](http://avisoretention.com/) |
 10/31/2016 |  |  |
 11/7/2016 | David Soller | ELK Stack for Data Visualization, Preformance Monitoring, etc. |
