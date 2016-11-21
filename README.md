@@ -16,9 +16,9 @@ Date | Person | Talk | Slides
 10/31/2016 | Alexander Leader | [Aviso Retention](http://avisoretention.com/) |
 11/7/2016 | David Soller | ELK Stack for Data Visualization |
 11/14/2016 | --- | *Canceled* |
-11/21/2016 |  |  |
+11/21/2016 | --- | *Canceled* |
 11/28/2016 | Allen White | Euntrepeneurship Experience |
-12/5/2016 |  |  |
+12/5/2016 | Dan Manges | Euntrepeneurship Experience |
 
 # Columbus Event Schedule
 Date | Event
