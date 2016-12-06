@@ -18,7 +18,7 @@ Date | Person | Talk | Slides
 11/14/2016 | --- | *Canceled* |
 11/21/2016 | --- | *Canceled* |
 11/28/2016 | Allen White | Entrepreneurship Experience |
-12/5/2016 | Dan Manges | Entrepreneurship Experience |
+12/5/2016 | Dan Manges | Entrepreneurship Experience | [Slides](https://docs.google.com/presentation/d/1OFdreS1OlhDp686Y7002oCU_911kCeHtgftfYN3H_0E/edit)
 
 # Columbus Event Schedule
 Date | Event
