@@ -1,4 +1,31 @@
-# NEWPATH Schedule - Fall '16
+## NEWPATH Schedule - Spring '17
+Date | Person | Talk | Slides
+-----|--------|------|-------
+1/9/2017 | Members | 1st meeting - Introduction & Summer Discussion |
+1/16/2017 | --- | *Martin Luther King Day* |
+1/23/2017 |  |  | 
+1/30/2017 |  |  | 
+2/6/2017 |  |  | 
+2/13/2017 |  |  |
+2/20/2017 |  |  |
+2/27/2017 |  |  |
+3/6/2017 |  |  |
+3/13/2017 | --- | *Spring Break* |
+3/20/2017 |  |  |
+3/27/2017 |  |  |
+4/3/2017 |  |  |
+4/10/2017 |  |  |
+4/17/2017 |  |  |
+4/24/2017 |  |  |
+
+
+## Columbus Event Schedule
+Date | Event
+-----|------
+
+# OLD
+
+## NEWPATH Schedule - Fall '16
 
 All class meetings on Mondays 10:20-11:15am EST in Dreese Labs 263
 
@@ -19,28 +46,3 @@ Date | Person | Talk | Slides
 11/21/2016 | --- | *Canceled* |
 11/28/2016 | Allen White | Entrepreneurship Experience |
 12/5/2016 | Dan Manges | Entrepreneurship Experience | [Slides](https://docs.google.com/presentation/d/1OFdreS1OlhDp686Y7002oCU_911kCeHtgftfYN3H_0E/edit)
-
-# Columbus Event Schedule
-Date | Event
------|------
-11/11 - 11/12 | [Columbus Startup Weekend](https://www.eventbrite.com/e/startup-weekend-columbus-tickets-27475062652)
-
-# NEWPATH Schedule - Spring '17
-Date | Person | Talk | Slides
------|--------|------|-------
-1/9/2017 |  |  |
-1/16/2017 | --- | *Martin Luther King Day* |
-1/23/2017 |  |  | 
-1/30/2017 |  |  | 
-2/6/2017 |  |  | 
-2/13/2017 |  |  |
-2/20/2017 |  |  |
-2/27/2017 |  |  |
-3/6/2017 |  |  |
-3/13/2017 | --- | *Spring Break* |
-3/20/2017 |  |  |
-3/27/2017 |  |  |
-4/3/2017 |  |  |
-4/10/2017 |  |  |
-4/17/2017 |  |  |
-4/24/2017 |  |  |
