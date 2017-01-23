@@ -3,7 +3,7 @@ Date | Person | Talk | Slides
 -----|--------|------|-------
 1/9/2017 | Members | 1st meeting - Introduction & Summer Discussion |
 1/16/2017 | --- | *Martin Luther King Day* |
-1/23/2017 |  |  | 
+1/23/2017 | --- | *Canceled* | 
 1/30/2017 |  |  | 
 2/6/2017 |  |  | 
 2/13/2017 |  |  |
