@@ -7,7 +7,7 @@ Date | Person | Talk | Slides
 1/30/2017 |  |  | 
 2/6/2017 |  |  | 
 2/13/2017 |  |  |
-2/20/2017 |  |  |
+2/20/2017 | Matt Veryser | Fireside chat with a VC |
 2/27/2017 |  |  |
 3/6/2017 |  |  |
 3/13/2017 | --- | *Spring Break* |
