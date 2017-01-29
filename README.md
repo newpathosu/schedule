@@ -1,11 +1,15 @@
+# Meetings
+
+All class meetings on Mondays 10:20-11:15am EST in Dreese Labs 263
+
 ## NEWPATH Schedule - Spring '17
 Date | Person | Talk | Slides
 -----|--------|------|-------
 1/9/2017 | Members | 1st meeting - Introduction & Summer Discussion |
 1/16/2017 | --- | *Martin Luther King Day* |
 1/23/2017 | --- | *Canceled* | 
-1/30/2017 |  |  | 
-2/6/2017 |  |  | 
+1/30/2017 | David Soller | Machine Learning | 
+2/6/2017 | Alex Tarashawty | Designing Software for the OSU Marching Band  | 
 2/13/2017 |  |  |
 2/20/2017 | Matt Veryser | Fireside chat with a VC |
 2/27/2017 |  |  |
@@ -22,12 +26,15 @@ Date | Person | Talk | Slides
 ## Columbus Event Schedule
 Date | Event
 -----|------
+2/18 | BBC’s Entrepreneurship Spectacular – More information at: [invite](https://nvite.com/ES2017/a912)
+3/4 to 3/5 | Make OHI/O – More information at: [make-oh.io](http://make-oh.io/)
+3/31 to 4/2 | Columbus Give Back Hack – More information at: [givebackhack.com](http://givebackhack.com/)
+4/1 to 4/2 | ASA Datafest – More information at: [data-analytics.osu.edu/datafest](https://data-analytics.osu.edu/datafest)
+
 
 # OLD
 
 ## NEWPATH Schedule - Fall '16
-
-All class meetings on Mondays 10:20-11:15am EST in Dreese Labs 263
 
 Date | Person | Talk | Slides
 -----|--------|------|-------
