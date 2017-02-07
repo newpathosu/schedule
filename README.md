@@ -10,7 +10,7 @@ Date | Person | Talk | Slides
 1/23/2017 | --- | *Canceled* |
 1/30/2017 | David Soller | Machine Learning |
 2/6/2017 | Alex Tarashawty | Designing Software for the OSU Marching Band  | [Slides](https://docs.google.com/presentation/d/1Iu992nlP8dAI69-gY_-WHv4MABHufx7rIpOAbtoFxq8/edit?usp=sharing)
-2/13/2017 |  |  |
+2/13/2017 | Alex Tarashawty | React with APIs tutorial |
 2/20/2017 | Matt Veryser | Fireside chat with a VC |
 2/27/2017 |  |  |
 3/6/2017 |  |  |
