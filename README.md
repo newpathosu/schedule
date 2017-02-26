@@ -12,7 +12,7 @@ Date | Person | Talk | Slides
 2/6/2017 | Alex Tareshawty | Designing Software for the OSU Marching Band  | [Slides](https://docs.google.com/presentation/d/1Iu992nlP8dAI69-gY_-WHv4MABHufx7rIpOAbtoFxq8/edit?usp=sharing)
 2/13/2017 | Alex Tareshawty | React with APIs tutorial | [Repo](https://github.com/atareshawty/newpath-react-app-demo)
 2/20/2017 | Matt Veryser | Fireside chat with a VC |
-2/27/2017 |  |  |
+2/27/2017 | David Soller | Docker |
 3/6/2017 |  |  |
 3/13/2017 | --- | *Spring Break* |
 3/20/2017 |  |  |
