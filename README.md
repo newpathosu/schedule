@@ -15,7 +15,7 @@ Date | Person | Talk | Slides
 2/27/2017 | David Soller | Docker | [Repo](https://github.com/3ygun/docker-demo)
 3/6/2017 |  |  |
 3/13/2017 | --- | *Spring Break* |
-3/20/2017 |  |  |
+3/20/2017 | Zach Boerger | Drive Capital ([drivecapital.com](https://www.drivecapital.com/)) |
 3/27/2017 |  |  |
 4/3/2017 |  |  |
 4/10/2017 |  |  |
