@@ -17,7 +17,7 @@ Date | Person | Talk | Slides
 3/13/2017 | --- | *Spring Break* |
 3/20/2017 | Zach Boerger | Drive Capital ([drivecapital.com](https://www.drivecapital.com/)) |
 3/27/2017 | --- | *Canceled* |
-4/3/2017 |  |  |
+4/3/2017 | David Soller | React Native |
 4/10/2017 |  |  |
 4/17/2017 |  |  |
 4/24/2017 |  |  |
