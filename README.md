@@ -8,19 +8,19 @@ Date | Person | Talk | Slides
 1/9/2017 | Members | 1st meeting - Introduction & Summer Discussion |
 1/16/2017 | --- | *Martin Luther King Day* |
 1/23/2017 | --- | *Canceled* |
-1/30/2017 | David Soller | Machine Learning |
-2/6/2017 | Alex Tareshawty | Designing Software for the OSU Marching Band  | [Slides](https://docs.google.com/presentation/d/1Iu992nlP8dAI69-gY_-WHv4MABHufx7rIpOAbtoFxq8/edit?usp=sharing)
-2/13/2017 | Alex Tareshawty | React with APIs tutorial | [Repo](https://github.com/atareshawty/newpath-react-app-demo)
+1/30/2017 | [David Soller](https://github.com/3ygun) | Machine Learning |
+2/6/2017 | [Alex Tareshawty](https://github.com/atareshawty) | Designing Software for the OSU Marching Band  | [Slides](https://docs.google.com/presentation/d/1Iu992nlP8dAI69-gY_-WHv4MABHufx7rIpOAbtoFxq8/edit?usp=sharing)
+2/13/2017 | [Alex Tareshawty](https://github.com/atareshawty) | React with APIs tutorial | [Repo](https://github.com/atareshawty/newpath-react-app-demo)
 2/20/2017 | Matt Veryser | Fireside chat with a VC |
-2/27/2017 | David Soller | Docker | [Repo](https://github.com/3ygun/docker-demo)
+2/27/2017 | [David Soller](https://github.com/3ygun) | Docker | [Repo](https://github.com/3ygun/docker-demo)
 3/6/2017 | --- | *Canceled* |
 3/13/2017 | --- | *Spring Break* |
 3/20/2017 | Zach Boerger | Drive Capital ([drivecapital.com](https://www.drivecapital.com/)) |
 3/27/2017 | --- | *Canceled* |
-4/3/2017 | David Soller | React Native |
+4/3/2017 | [David Soller](https://github.com/3ygun) | React Native |
 4/10/2017 | [Mark Tareshawty](https://github.com/tarebyte) | GitHub Integrations |
-4/17/2017 |  |  |
-4/24/2017 |  |  |
+4/17/2017 | [Alex Tareshawty](https://github.com/atareshawty) | [Glitch](https://glitch.com/) |
+4/24/2017 | [David Soller](https://github.com/3ygun) | [Reflection on 4 Years of Newpath](https://gist.github.com/3ygun/ba3665853aae0c3e179f52bbe6e6eaaf) |
 
 
 ## Columbus Event Schedule
